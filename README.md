@@ -17,5 +17,6 @@ ENJOY !
 
 If you want to support us, don't hesitate to donate on our donate pages.
 
-https://www.patreon.com/user?u=129683191&fromConcierge=true
-https://studio.buymeacoffee.com/dashboard
+Donate on Patreon: https://www.patreon.com/user?u=129683191&fromConcierge=true   
+
+Buymeacoffee: https://studio.buymeacoffee.com/dashboard
